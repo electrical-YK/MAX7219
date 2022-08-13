@@ -1,3 +1,3 @@
 # MAZ7219
 
-LED Dot Matrix.
+LED Dot Matrix;
